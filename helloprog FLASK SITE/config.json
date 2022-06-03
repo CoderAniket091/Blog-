@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/helloprog" ,
+    "prod_uri": "mysql://root:@localhost/helloprog",
+    "fb_url": "https://www.fb.com",
+    "blog_name": "Hello Prog",
+    "blog_writer": "By Admin",
+    "tagline": "A programmer's site",
+    "gmail-user" : "madhavghaitestmail2" ,
+    "gmail-password" : "7040575202",
+    "no_of_posts": 3,
+    "login_img" : "admin.png",
+    "admin_user" : "aniket091",
+    "admin_password" : "7040575202",
+    "upload_location" : "C:\\Users\\LeZhand Gaming\\PycharmProjects\\Python Flask\\static"
+
+  }
+}
